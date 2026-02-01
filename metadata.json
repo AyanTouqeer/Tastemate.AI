@@ -1,0 +1,7 @@
+{
+  "name": "Tastemate.AI Using Google AI Studio",
+  "description": "A context-aware intelligent companion that builds a hyper-personalized profile of your physical health, mental well-being, and academic goals to provide tailored guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
